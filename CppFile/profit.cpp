@@ -3,9 +3,9 @@
 #include"Manager.h"
 using namespace std;
 
-//¸ÅÃâÇöÈ²
+//ë§¤ì¶œí˜„í™©
 void Calculator::getMoney() {
-	cout << "ÃÑ ¸ÅÃâ ÇöÈ² : " << total << "¿ø" << endl;
+	cout << "ì´ ë§¤ì¶œ í˜„í™© : " << total << "ì›" << endl;
 }
 
 
