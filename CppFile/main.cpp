@@ -9,7 +9,7 @@ int main() {
 	cout << " " << endl;
 	Start go;
 
-	go.Run(); //Pos±â ½ÇÇà
+	go.Run(); //Posê¸° ì‹¤í–‰
 	
 
 }
