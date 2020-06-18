@@ -8,4 +8,4 @@ void Calculator::getMoney() {
 	cout << "총 매출 현황 : " << total << "원" << endl;
 } 
 
-
+ 
